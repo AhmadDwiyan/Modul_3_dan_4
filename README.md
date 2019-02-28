@@ -10,3 +10,12 @@ hasil latihan 5
 ![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/.5.PNG)
 hasil latihan 6
 ![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/.6.PNG)
+
+#TUGAS 4
+![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/%2C1.PNG)
+hasil latihan,2
+![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/%2C2.PNG)
+hasil latihan,3
+![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/%2C3.PNG)
+hasil latihan,4
+![alt text](https://github.com/AhmadDwiyan/Tugas-Sekolah-10.2-/blob/master/%2C4.PNG)
